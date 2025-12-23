@@ -11,7 +11,7 @@ Currently strengthening <b>DSA</b> fundamentals and exploring
 
 ### 🔗 Connect with me
 <p>
-<a href="https://www.linkedin.com/in/tokachichu-sri-charan/" target="_blank">
+<a href="https://www.linkedin.com/in/tokachichu-sricharan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:tokachichusricharan2005@gmail.com">
