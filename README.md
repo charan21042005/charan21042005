@@ -44,7 +44,7 @@ Currently strengthening <b>DSA</b> fundamentals and exploring
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=charan21042005&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
