@@ -24,7 +24,7 @@ Currently strengthening <b>DSA</b> fundamentals and exploring
 
 ---
 
-### 💡 Interests
+### 💡 Areas of Interest
 - Data Science & Analytics  
 - Predictive Analytics  
 - Machine Learning & AI  
@@ -41,11 +41,13 @@ Currently strengthening <b>DSA</b> fundamentals and exploring
 
 ---
 
-### 📊 GitHub Activity
+### 📌 What I'm actively working on
+- 📘 **DSA Journey** – concept-wise notes and clean implementations  
+- 🧠 **LeetCode Solutions** – daily problem solving with explanations  
+- 🧩 **GeeksforGeeks POTD** – consistent daily practice  
+- 🎯 **Placement Preparation** – core CS fundamentals & interview notes  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan21042005&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+> Repositories are updated regularly as part of my learning and preparation.
 
 ---
 
