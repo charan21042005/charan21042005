@@ -150,15 +150,73 @@ class SriCharan:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charan21042005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charan21042005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan21042005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan21042005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=tokyonight&hide_border=true&count_private=true" width="70%" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&line=a78bfa&point=ffffff" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+> ⚙️ **Setup required:** Go to your `charan21042005` profile repo → Actions tab → Enable the snake workflow below, then it auto-generates every day.
+
+Add this file as `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: charan21042005
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once set up, the snake will render here automatically:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-### 🏅 Competitive Programming Profiles
+### 🏅 Competitive Programming
 
 <div align="center">
 
