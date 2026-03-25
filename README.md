@@ -217,3 +217,5 @@ class SriCharan:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake.svg)
