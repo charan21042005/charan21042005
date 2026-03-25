@@ -170,48 +170,14 @@ class SriCharan:
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-
-> ⚙️ **Setup required:** Go to your `charan21042005` profile repo → Actions tab → Enable the snake workflow below, then it auto-generates every day.
-
-Add this file as `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: charan21042005
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once set up, the snake will render here automatically:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
-
 </div>
 
 ---
