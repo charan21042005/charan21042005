@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=220&section=header&text=Sri%20Charan%20Tokachichu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Data%20Science%20%7C%20ML%20%7C%20AI%20%7C%20Backend&descSize=17&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=220&section=header&text=Sri%20Charan%20Tokachichu&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <a href="https://github.com/charan21042005">
   <img src="https://img.shields.io/badge/GitHub-charan21042005-FF007F?style=flat-square&logo=github&logoColor=white"/>
