@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=220&section=header&text=Sri%20Charan%20Tokachichu&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=220&section=header&text=Sri%20Charan%20Tokachichu&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="Header Banner"/>
 
 <a href="https://github.com/charan21042005">
   <img src="https://img.shields.io/badge/GitHub-charan21042005-FF007F?style=flat-square&logo=github&logoColor=white"/>
@@ -157,7 +157,7 @@ class SriCharan:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=synthwave&hide_border=true&count_private=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=synthwave&hide_border=true&count_private=true" width="70%" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -165,7 +165,7 @@ class SriCharan:
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&bg_color=2A223A&color=FF007F&line=00E5FF&point=FFD700&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&bg_color=2A223A&color=FF007F&line=00E5FF&point=FFD700&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -176,7 +176,7 @@ class SriCharan:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/charan21042005/charan21042005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 </div>
 
@@ -214,6 +214,6 @@ class SriCharan:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7C3AED,00E5FF&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
