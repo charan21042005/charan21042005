@@ -22,7 +22,7 @@
 
 ### 🧑💻 About Me
 
-```python
+```pytho
 class SriCharan:
     name        = "Tokachichu Sri Charan"
     degree      = "B.Tech — Computer Science Engineering"
