@@ -338,10 +338,10 @@ class SriCharan:
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity (Line Graph)
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FF007F/charan21042005" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&bg_color=0d1117&color=FF007F&line=7C3AED&point=00E5FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Line Graph"/>
 </div>
 
 ---
@@ -362,26 +362,18 @@ class SriCharan:
 
 <div align="center">
 
-[
-
-![LeetCode](https://img.shields.io/badge/LeetCode-charan__datascience-FF007F?style=for-the-badge&logo=leetcode&logoColor=white)
-
-](https://leetcode.com/u/charan_datascience/)
-[
-
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-charan4sekxs-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-](https://www.geeksforgeeks.org/profile/charan4sekxs)
-[
-
-![HackerRank](https://img.shields.io/badge/HackerRank-charan4studies-00E5FF?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-](https://www.hackerrank.com/profile/charan4studies)
-[
-
-![CodeChef](https://img.shields.io/badge/CodeChef-charan__f1-FF8C00?style=for-the-badge&logo=codechef&logoColor=white)
-
-](https://www.codechef.com/users/charan_f1)
+<a href="https://leetcode.com/u/charan_datascience/">
+  <img src="https://img.shields.io/badge/LeetCode-charan__datascience-FF007F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/charan4sekxs">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-charan4sekxs-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://www.hackerrank.com/profile/charan4studies">
+  <img src="https://img.shields.io/badge/HackerRank-charan4studies-00E5FF?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://www.codechef.com/users/charan_f1">
+  <img src="https://img.shields.io/badge/CodeChef-charan__f1-FF8C00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
 </div>
 
@@ -391,26 +383,18 @@ class SriCharan:
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-tokachichu--sricharan-FF007F?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/tokachichu-sricharan/)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-tokachichusricharan2005-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:tokachichusricharan2005@gmail.com)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-charan__nani30-00E5FF?style=for-the-badge&logo=instagram&logoColor=white)
-
-](https://www.instagram.com/charan_nani30)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF8C00?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://sri-charan-portfolio-5q3i.vercel.app/)
+<a href="https://www.linkedin.com/in/tokachichu-sricharan/">
+  <img src="https://img.shields.io/badge/LinkedIn-tokachichu--sricharan-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tokachichusricharan2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tokachichusricharan2005-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/charan_nani30">
+  <img src="https://img.shields.io/badge/Instagram-charan__nani30-00E5FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://sri-charan-portfolio-5q3i.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF8C00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
