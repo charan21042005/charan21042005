@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Premium Hero Banner - Deep Teal to Vibrant Cyan Gradient - NO PINK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003d5c,004e75,0077b6,0096c7,00b4d8&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<!-- Premium Hero Banner - Deep Violet to Electric Cyan Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,3a0ca3,4361ee,4cc9f0,00f5d4&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <!-- Main Headline - Bold & Impactful -->
-<h1 style="font-size: 42px; margin: 25px 0 10px 0; background: linear-gradient(135deg, #003d5c 0%, #004e75 25%, #0077b6 50%, #0096c7 75%, #00b4d8 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; letter-spacing: 1px;">
+<h1 style="font-size: 42px; margin: 25px 0 10px 0; background: linear-gradient(135deg, #3a0ca3 0%, #4361ee 35%, #4cc9f0 70%, #00f5d4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; letter-spacing: 1px;">
   🚀 ML Engineer × Data Scientist × Cloud Enthusiast
 </h1>
 
-<p style="font-size: 20px; color: #0096c7; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600; animation: pulse 2s infinite;">
+<p style="font-size: 20px; color: #4361ee; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600; animation: pulse 2s infinite;">
 ✨ Building Intelligent Data Systems ✨
 </p>
 
@@ -20,25 +20,25 @@ ML Pipelines • Cloud Solutions • Data-Driven Innovation
 
 <!-- Premium Status Badges -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 15px;">
-<img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-003d5c?style=flat-square&labelColor=0D1B2A&color=003d5c&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍_Based-India%20🇮🇳-004e75?style=flat-square&labelColor=0D1B2A&color=004e75"/>
-<img src="https://img.shields.io/badge/🔥_Mode-Building%20%26%20Learning-0077b6?style=flat-square&labelColor=0D1B2A&color=0077b6"/>
+<img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-1a0033?style=flat-square&labelColor=0D1B2A&color=1a0033&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Based-India%20🇮🇳-3a0ca3?style=flat-square&labelColor=0D1B2A&color=3a0ca3"/>
+<img src="https://img.shields.io/badge/🔥_Mode-Building%20%26%20Learning-4361ee?style=flat-square&labelColor=0D1B2A&color=4361ee"/>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 25px;">
-<img src="https://img.shields.io/badge/👶_Level-Fresher%20%7C%20Junior-0096c7?style=flat-square&labelColor=0D1B2A&color=0096c7"/>
-<img src="https://img.shields.io/badge/🎯_Seeking-ML%20%2F%20Data%20%2F%20Cloud%20Roles-00b4d8?style=flat-square&labelColor=0D1B2A&color=00b4d8"/>
-<img src="https://komarev.com/ghpvc/?username=charan21042005&label=Profile%20Visits&color=0077b6&style=flat-square"/>
+<img src="https://img.shields.io/badge/👶_Level-Fresher%20%7C%20Junior-4cc9f0?style=flat-square&labelColor=0D1B2A&color=4cc9f0"/>
+<img src="https://img.shields.io/badge/🎯_Seeking-ML%20%2F%20Data%20%2F%20Cloud%20Roles-00f5d4?style=flat-square&labelColor=0D1B2A&color=00f5d4"/>
+<img src="https://komarev.com/ghpvc/?username=charan21042005&label=Profile%20Visits&color=4361ee&style=flat-square"/>
 </div>
 
 <br/>
 
 <!-- Animated GIF with Label and Glow Effect -->
 <div style="position: relative; display: inline-block;">
-<div style="background: linear-gradient(135deg, #003d5c, #0077b6, #00b4d8); padding: 15px 25px; border-radius: 15px 15px 0 0; color: white; font-weight: bold; font-size: 14px; letter-spacing: 1px;">
+<div style="background: linear-gradient(135deg, #1a0033, #3a0ca3, #4361ee); padding: 15px 25px; border-radius: 15px 15px 0 0; color: white; font-weight: bold; font-size: 14px; letter-spacing: 1px;">
 💡 ML & Data Pipeline Architecture in Action
 </div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 0 0 30px 30px; box-shadow: 0 10px 50px rgba(0, 119, 182, 0.3), inset 0 -2px 10px rgba(0, 150, 199, 0.1); border: 3px solid #0077b6; animation: float 3s ease-in-out infinite;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 0 0 30px 30px; box-shadow: 0 10px 50px rgba(67, 97, 238, 0.3), inset 0 -2px 10px rgba(76, 201, 240, 0.1); border: 3px solid #4361ee; animation: float 3s ease-in-out infinite;"/>
 </div>
 
 <style>
@@ -141,7 +141,6 @@ philosophy: |
    Every project is a learning opportunity."
 
 # ============================================================================
-```
 
 ---
 
