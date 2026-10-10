@@ -8,7 +8,7 @@
   🚀 ML Engineer × Data Scientist × Cloud Enthusiast
 </h1>
 
-<p style="font-size: 20px; color: #4361ee; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600; animation: pulse 2s infinite;">
+<p style="font-size: 20px; color: #4361ee; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600;">
 ✨ Building Intelligent Data Systems ✨
 </p>
 
@@ -33,24 +33,13 @@ ML Pipelines • Cloud Solutions • Data-Driven Innovation
 
 <br/>
 
-<!-- Animated GIF with Label and Glow Effect -->
+<!-- GIF with Header and Glow Effect -->
 <div style="position: relative; display: inline-block;">
 <div style="background: linear-gradient(135deg, #1a0033, #3a0ca3, #4361ee); padding: 15px 25px; border-radius: 15px 15px 0 0; color: white; font-weight: bold; font-size: 14px; letter-spacing: 1px;">
 💡 ML & Data Pipeline Architecture in Action
 </div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 0 0 30px 30px; box-shadow: 0 10px 50px rgba(67, 97, 238, 0.3), inset 0 -2px 10px rgba(76, 201, 240, 0.1); border: 3px solid #4361ee; animation: float 3s ease-in-out infinite;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 0 0 30px 30px; box-shadow: 0 10px 50px rgba(67, 97, 238, 0.3), inset 0 -2px 10px rgba(76, 201, 240, 0.1); border: 3px solid #4361ee;"/>
 </div>
-
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.8; }
-  }
-</style>
 
 </div>
 
@@ -141,7 +130,7 @@ philosophy: |
    Every project is a learning opportunity."
 
 # ============================================================================
-
+```
 ---
 
 ## 🛠️ Technology Arsenal
