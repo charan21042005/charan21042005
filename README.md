@@ -321,8 +321,7 @@ philosophy: |
 
 <div align="center">
 
-<!-- Premium Footer Banner - Deep Teal to Cyan Gradient - NO PINK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003d5c,004e75,0077b6,0096c7,00b4d8&height=200&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Growing&fontSize=28&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,001233,10,003566,20,0077b6,30,00f5d4&height=200&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Growing&fontSize=28&fontColor=ffffff" width="100%"/>
 
 <br/>
 
