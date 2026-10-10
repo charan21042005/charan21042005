@@ -238,7 +238,7 @@ philosophy: |
 ### 📈 Contribution Timeline
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=charan21042005&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Worm Animation
