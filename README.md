@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Premium Hero Banner - Deep Midnight Navy to Electric Cyan / Aqua (Zero Pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:003566,100:00f5d4&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,001233,10,003566,20,0077b6,30,00f5d4&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <!-- Main Headline - Bold & Impactful -->
 <h1 style="font-size: 42px; margin: 25px 0 10px 0; background: linear-gradient(135deg, #3a0ca3 0%, #4361ee 35%, #4cc9f0 70%, #00f5d4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; letter-spacing: 1px;">
