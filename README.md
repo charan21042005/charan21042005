@@ -235,10 +235,10 @@ philosophy: |
 <img src="https://streak-stats.demolab.com/?user=charan21042005&theme=synthwave&hide_border=true&stroke=0077b6" width="82%" alt="GitHub Streak"/>
 </div>
 
-### 📈 Contribution Timeline
+### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=charan21042005&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/charan21042005/charan21042005/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Worm Animation
