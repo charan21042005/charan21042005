@@ -1,54 +1,54 @@
 <div align="center">
 
-<!-- Premium Hero Banner - Deep Teal to Vibrant Cyan Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D47A1,1565C0,0277BD,00BCD4,4DD0E1&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<!-- Premium Hero Banner - Deep Teal to Vibrant Cyan Gradient - NO PINK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003d5c,004e75,0077b6,0096c7,00b4d8&height=320&section=header&text=Sri%20Charan%20Tokachichu&fontSize=52&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <!-- Main Headline - Bold & Impactful -->
-<h1 style="font-size: 42px; margin: 25px 0 10px 0; background: linear-gradient(135deg, #0D47A1 0%, #1565C0 25%, #0277BD 50%, #00BCD4 75%, #4DD0E1 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; letter-spacing: 1px; text-shadow: 0 2px 10px rgba(0, 188, 212, 0.1);">
-  🚀 ML Engineer × Data Scientist × Cloud Architect
+<h1 style="font-size: 42px; margin: 25px 0 10px 0; background: linear-gradient(135deg, #003d5c 0%, #004e75 25%, #0077b6 50%, #0096c7 75%, #00b4d8 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; letter-spacing: 1px;">
+  🚀 ML Engineer × Data Scientist × Cloud Enthusiast
 </h1>
 
-<p style="font-size: 20px; color: #00BCD4; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600; animation: pulse 2s infinite;">
-✨ Transforming Raw Data into Intelligent Systems ✨
+<p style="font-size: 20px; color: #0096c7; margin: 15px 0; letter-spacing: 0.5px; font-weight: 600; animation: pulse 2s infinite;">
+✨ Building Intelligent Data Systems ✨
 </p>
 
 <p style="font-size: 16px; color: #555; margin: 8px 0 20px 0;">
-Building ML pipelines • Architecting cloud solutions • Engineering data-driven futures
+ML Pipelines • Cloud Solutions • Data-Driven Innovation
 </p>
 
 <br/>
 
-<!-- Premium Status Badges - Animated & Glowing -->
+<!-- Premium Status Badges -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 15px;">
-<img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-0D47A1?style=flat-square&labelColor=0D1B2A&color=0D47A1&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍_Based-India%20🇮🇳-1565C0?style=flat-square&labelColor=0D1B2A&color=1565C0"/>
-<img src="https://img.shields.io/badge/🔥_Shipping-ML%20%26%20Cloud%20Solutions-00BCD4?style=flat-square&labelColor=0D1B2A&color=00BCD4"/>
+<img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-003d5c?style=flat-square&labelColor=0D1B2A&color=003d5c&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Based-India%20🇮🇳-004e75?style=flat-square&labelColor=0D1B2A&color=004e75"/>
+<img src="https://img.shields.io/badge/🔥_Mode-Building%20%26%20Learning-0077b6?style=flat-square&labelColor=0D1B2A&color=0077b6"/>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 25px;">
-<img src="https://img.shields.io/badge/☁️_Specialty-AWS%20%7C%20Docker%20%7C%20K8s%20-0277BD?style=flat-square&labelColor=0D1B2A&color=0277BD"/>
-<img src="https://img.shields.io/badge/🎯_Focus-ML%20Pipelines%20%26%20Analytics-4DD0E1?style=flat-square&labelColor=0D1B2A&color=4DD0E1"/>
-<img src="https://komarev.com/ghpvc/?username=charan21042005&label=Profile%20Visits&color=00BCD4&style=flat-square"/>
+<img src="https://img.shields.io/badge/👶_Level-Fresher%20%7C%20Junior-0096c7?style=flat-square&labelColor=0D1B2A&color=0096c7"/>
+<img src="https://img.shields.io/badge/🎯_Seeking-ML%20%2F%20Data%20%2F%20Cloud%20Roles-00b4d8?style=flat-square&labelColor=0D1B2A&color=00b4d8"/>
+<img src="https://komarev.com/ghpvc/?username=charan21042005&label=Profile%20Visits&color=0077b6&style=flat-square"/>
 </div>
 
 <br/>
 
-<!-- Premium Animated GIF with Glow Effect -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 30px; box-shadow: 0 0 40px rgba(0, 188, 212, 0.4), 0 0 80px rgba(13, 71, 161, 0.2); border: 3px solid rgba(0, 188, 212, 0.3); animation: float 3s ease-in-out infinite;"/>
+<!-- Animated GIF with Label and Glow Effect -->
+<div style="position: relative; display: inline-block;">
+<div style="background: linear-gradient(135deg, #003d5c, #0077b6, #00b4d8); padding: 15px 25px; border-radius: 15px 15px 0 0; color: white; font-weight: bold; font-size: 14px; letter-spacing: 1px;">
+💡 ML & Data Pipeline Architecture in Action
+</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Data Science & ML Animation" style="border-radius: 0 0 30px 30px; box-shadow: 0 10px 50px rgba(0, 119, 182, 0.3), inset 0 -2px 10px rgba(0, 150, 199, 0.1); border: 3px solid #0077b6; animation: float 3s ease-in-out infinite;"/>
+</div>
 
 <style>
   @keyframes float {
     0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
+    50% { transform: translateY(-15px); }
   }
   @keyframes pulse {
     0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-  }
-  @keyframes shake {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(-5deg); }
-    75% { transform: rotate(5deg); }
+    50% { opacity: 0.8; }
   }
 </style>
 
@@ -60,26 +60,27 @@ Building ML pipelines • Architecting cloud solutions • Engineering data-driv
 
 <div align="center">
 
-> **"I architect scalable ML systems. I engineer cloud infrastructure. I transform data chaos into strategic intelligence."**
+> **"I build ML systems that learn and scale. I architect cloud infrastructure that thrives. I transform data into intelligence."**
 
 </div>
 
 ```yaml
 # ============================================================================
-# SRI CHARAN TOKACHICHU - ML Engineer & Data Science Architect
+# SRI CHARAN TOKACHICHU - ML Engineer & Data Science Specialist
 # ============================================================================
 
 profile:
   name: "Tokachichu Sri Charan"
-  title: "ML Engineer × Data Scientist × Cloud Architect"
+  title: "ML Engineer × Data Scientist × Cloud Enthusiast"
   degree: "B.Tech — Computer Science Engineering"
   location: "India 🇮🇳"
-  status: "🚀 Building Scalable ML Systems & Cloud Infrastructure"
+  experience_level: "🌱 Fresher | 🎯 Eager to Learn & Contribute"
+  status: "🚀 Building ML Systems & Cloud Solutions"
   
   mission: |
-    "Crafting intelligent systems that learn, adapt, and scale.
-     Designing cloud architectures that thrive under pressure.
-     Transforming raw data into strategic competitive advantages."
+    "Crafting intelligent systems that learn from data.
+     Designing cloud architectures that scale reliably.
+     Transforming complex data into actionable insights."
 
 # ============================================================================
 # CORE EXPERTISE & SPECIALIZATIONS
@@ -87,59 +88,57 @@ profile:
 
 expertise:
   machine_learning:
-    description: "Building production-grade ML systems"
+    description: "Building end-to-end ML solutions"
     skills:
       - 🤖 Predictive Analytics & Forecasting
       - 📊 Feature Engineering & Selection
-      - 🧠 Model Optimization & Hyperparameter Tuning
-      - 🔄 ML Pipeline Orchestration
-      - 📈 Deep Learning Concepts & Applications
+      - 🧠 Model Optimization & Tuning
+      - 🔄 ML Pipeline Development
+      - 📈 Deep Learning Concepts
     
   data_science:
-    description: "Unlocking insights from complex datasets"
+    description: "Unlocking insights from data"
     skills:
       - 🔍 Exploratory Data Analysis (EDA)
       - 🧹 Data Wrangling & Transformation
-      - 📉 Statistical Analysis & A/B Testing
-      - 📊 Data Visualization & BI
-      - 💡 Business Intelligence Solutions
+      - 📉 Statistical Analysis
+      - 📊 Data Visualization
+      - 💡 Business Intelligence
     
   cloud_devops:
-    description: "Architecting resilient, scalable infrastructure"
+    description: "Learning cloud infrastructure design"
     skills:
-      - ☁️ AWS (EC2, S3, Lambda, RDS, SageMaker)
-      - 🐳 Docker & Container Orchestration
-      - ⚙️ Kubernetes (K8s) Management
-      - 🔄 CI/CD Pipeline Automation
-      - 🏗️ Infrastructure as Code (IaC)
-      - 📊 Monitoring & Observability
+      - ☁️ AWS (EC2, S3, Lambda, RDS)
+      - 🐳 Docker & Containerization
+      - ⚙️ Kubernetes Basics
+      - 🔄 CI/CD Pipeline Concepts
+      - 🏗️ Infrastructure as Code Intro
     
   backend_systems:
-    description: "Designing robust API architectures"
+    description: "Building scalable APIs"
     skills:
       - ⚡ FastAPI & Flask
-      - 🏗️ Microservices Architecture
-      - 🔌 REST APIs & Event-Driven Design
-      - 💾 Database Design & Optimization
+      - 🏗️ Microservices Concepts
+      - 🔌 REST APIs
+      - 💾 Database Design
 
 # ============================================================================
-# CURRENT FOCUS & GOALS
+# CURRENT LEARNING & GOALS
 # ============================================================================
 
 currently_working_on:
-  🎯 Building end-to-end ML pipelines with cloud deployment
-  💾 Designing scalable data warehouse architectures
-  ☁️ Optimizing AWS infrastructure for ML workloads
-  🔧 Automating DevOps workflows and CI/CD processes
-  📊 Developing data-driven business solutions
+  🎯 Building ML models & deploying to cloud
+  💾 Learning ETL & data pipeline architecture
+  ☁️ Mastering AWS for ML workloads
+  🔧 Understanding DevOps best practices
+  📊 Creating end-to-end data solutions
 
-dream_role: |
-  "Senior ML Engineer | ML Platform Lead | Cloud Data Architect"
+seeking_role: |
+  "Junior/Fresher ML Engineer | Data Science Associate | Cloud Engineer"
   
 philosophy: |
-  "Scalable systems, reliable pipelines, data-driven decisions.
-   Every line of code should serve intelligence. 
-   Every deployment should be bulletproof."
+  "Learn by building. Ship fast. Iterate based on feedback.
+   Every project is a learning opportunity."
 
 # ============================================================================
 ```
@@ -168,7 +167,7 @@ philosophy: |
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ☁️ Cloud & DevOps — Premium Focus
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -199,36 +198,36 @@ philosophy: |
 
 ---
 
-## 🚀 Active Focus Areas
+## 🚀 Active Learning & Focus Areas
 
 <table align="center" style="border-collapse: collapse; width: 92%; margin: 25px auto;">
-  <tr style="background: linear-gradient(135deg, #0D47A1, #1565C0, #0277BD); color: white; font-weight: bold; font-size: 16px;">
+  <tr style="background: linear-gradient(135deg, #003d5c, #004e75, #0077b6); color: white; font-weight: bold; font-size: 16px;">
     <td style="padding: 18px; text-align: center; border: none; width: 35%;">🤖 Machine Learning</td>
-    <td style="padding: 18px; border: none;">End-to-end ML pipelines, feature engineering, model optimization & production deployment</td>
+    <td style="padding: 18px; border: none;">Building ML models, feature engineering, optimization & cloud deployment</td>
   </tr>
-  <tr style="background: rgba(2, 119, 189, 0.08);">
+  <tr style="background: rgba(0, 119, 182, 0.08);">
     <td style="padding: 18px; text-align: center; border: none;">📊 Data Engineering</td>
-    <td style="padding: 18px; border: none;">ETL/ELT pipelines, data warehousing, Spark/Hadoop ecosystem & cloud data solutions</td>
+    <td style="padding: 18px; border: none;">Learning ETL pipelines, data warehousing & Spark/Hadoop ecosystem</td>
   </tr>
-  <tr style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.12), rgba(2, 119, 189, 0.08));">
+  <tr style="background: linear-gradient(135deg, rgba(0, 150, 199, 0.12), rgba(0, 119, 182, 0.08));">
     <td style="padding: 18px; text-align: center; border: none;">☁️ Cloud Architecture</td>
-    <td style="padding: 18px; border: none;">AWS infrastructure, serverless deployments, cost optimization & multi-region scaling</td>
+    <td style="padding: 18px; border: none;">AWS exploration, serverless concepts & cost optimization strategies</td>
   </tr>
-  <tr style="background: rgba(0, 188, 212, 0.08);">
+  <tr style="background: rgba(0, 180, 216, 0.08);">
     <td style="padding: 18px; text-align: center; border: none;">🔧 DevOps & CI/CD</td>
-    <td style="padding: 18px; border: none;">Containerization, Kubernetes orchestration, automated deployments & infrastructure reliability</td>
+    <td style="padding: 18px; border: none;">Docker & Kubernetes basics, automated deployments & pipeline automation</td>
   </tr>
-  <tr style="background: linear-gradient(135deg, rgba(2, 119, 189, 0.08), rgba(0, 188, 212, 0.12));">
+  <tr style="background: linear-gradient(135deg, rgba(0, 119, 182, 0.08), rgba(0, 150, 199, 0.12));">
     <td style="padding: 18px; text-align: center; border: none;">💾 Database Optimization</td>
-    <td style="padding: 18px; border: none;">Schema design, query optimization, indexing strategies & performance tuning</td>
+    <td style="padding: 18px; border: none;">Schema design, query optimization & database performance tuning</td>
   </tr>
-  <tr style="background: rgba(13, 71, 161, 0.08);">
+  <tr style="background: rgba(0, 61, 92, 0.08);">
     <td style="padding: 18px; text-align: center; border: none;">📈 Competitive Programming</td>
-    <td style="padding: 18px; border: none;">Daily LeetCode & GeeksforGeeks POTD grinding for algorithmic mastery</td>
+    <td style="padding: 18px; border: none;">Daily LeetCode & GeeksforGeeks POTD for problem-solving skills</td>
   </tr>
 </table>
 
-> 🔥 **Commitment**: Repositories updated consistently. Production-grade solutions shipped. Always learning, always building.
+> 🔥 **Commitment**: Repositories updated consistently. Building with passion. Always learning something new.
 
 ---
 
@@ -245,13 +244,13 @@ philosophy: |
 ### 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=charan21042005&theme=synthwave&hide_border=true&stroke=00BCD4" width="82%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=charan21042005&theme=synthwave&hide_border=true&stroke=0077b6" width="82%" alt="GitHub Streak"/>
 </div>
 
 ### 📈 Contribution Timeline
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&bg_color=0d1117&color=0277BD&line=00BCD4&point=4DD0E1&area=true&area_color=00BCD4&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charan21042005&bg_color=0d1117&color=0077b6&line=0096c7&point=00b4d8&area=true&area_color=0096c7&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Worm Animation
@@ -318,15 +317,15 @@ philosophy: |
 
 ---
 
-## 💬 Let's Build Something Revolutionary
+## 💬 Let's Build Something Amazing
 
 <div align="center">
 
-> 💼 **Open to**: Collaborating on ML projects | Cloud architecture partnerships | Data engineering initiatives | Open source contributions
+> 💼 **Open to**: ML/Data projects | Cloud learning | Data engineering initiatives | Open source contributions
 
-> 🚀 **Currently Seeking**: Senior roles in ML Engineering, Data Science, Cloud Architecture & DevOps
+> 🚀 **Currently Seeking**: Junior/Fresher roles in ML Engineering, Data Science, or Cloud Engineering
 
-> ⚡ **Philosophy**: "Data is the new oil — let's refine it into intelligence that drives decisions and creates value."
+> ⚡ **Philosophy**: "Every line of code is a learning opportunity. Every project shapes who I become as an engineer."
 
 </div>
 
@@ -334,19 +333,19 @@ philosophy: |
 
 <div align="center">
 
-<!-- Premium Footer Banner - Deep Teal to Cyan Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D47A1,1565C0,0277BD,00BCD4,4DD0E1&height=200&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Innovating&fontSize=30&fontColor=ffffff" width="100%"/>
+<!-- Premium Footer Banner - Deep Teal to Cyan Gradient - NO PINK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003d5c,004e75,0077b6,0096c7,00b4d8&height=200&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Growing&fontSize=28&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-### 🌱 Always Learning | 🔧 Always Building | 🚀 Always Innovating | 💡 Always Thinking
+### 🌱 Always Learning | 🔧 Always Building | 🚀 Always Growing | 💡 Always Curious
 
-<i style="font-size: 15px; color: #1565C0; font-weight: 600; letter-spacing: 0.5px;">Last Updated: October 2026 | Data-Driven | Cloud-Native | ML-First | DevOps-Ready</i>
+<i style="font-size: 15px; color: #004e75; font-weight: 600; letter-spacing: 0.5px;">Last Updated: October 2026 | Fresher | Eager to Learn | Cloud-Native | ML-Focused</i>
 
 <br/>
 
-<p style="font-size: 12px; color: #999; margin-top: 10px;">
-  🌟 If you can dream it, we can build it with data and cloud intelligence. 🌟
+<p style="font-size: 12px; color: #666; margin-top: 10px;">
+  🌟 Ready to collaborate and grow with the right team. Let's build intelligent systems together! 🌟
 </p>
 
 </div>
